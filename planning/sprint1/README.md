@@ -1,8 +1,8 @@
 # Sprint
-Start Date:  
+Start Date:
 End Date:
 
-## What Items Were Planned to Be Accomplished During this Sprint
+## What Items Were Planned to Be Accomplished During this Sprint (Sprint Backlog)
 
 
 ## Which Items were Accomplished
